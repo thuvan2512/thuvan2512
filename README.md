@@ -4,11 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-thuvan2512/thuvan2512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Hi there 👋<h2> I'm Shivam</h2>
+### Hi 👋<h2> I'm thu</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -18,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying software engineering at HCMC Open University.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
@@ -30,27 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C++ | C# | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
-
-<hr>
 
 
 
