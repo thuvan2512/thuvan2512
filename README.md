@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @thuvan2512
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### Hi 👋<h2> I'm thu</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -16,10 +10,7 @@
 
 - 🎓 &nbsp; Studying software engineering at HCMC Open University.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
+- 📫 Please contact me via email address thunguyenvan2512@gmail.com
 
 
 <h3>🛠 Tech Stack</h3>
@@ -33,13 +24,6 @@
 
 
 
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
-
-<br/>
-
-<br/>
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
